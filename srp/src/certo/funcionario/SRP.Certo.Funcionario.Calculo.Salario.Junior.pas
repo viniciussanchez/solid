@@ -18,7 +18,7 @@ implementation
 
 function TCalculoSalarioJunior.Calcular(const ASalario: Currency): Currency;
 begin
-  Result := ASalario - (ASalario * 0.11);
+  Result := ASalario - (ASalario * 0.12);
 end;
 
 class function TCalculoSalarioJunior.New: ICalculoSalarioFuncionario;

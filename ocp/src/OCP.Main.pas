@@ -31,7 +31,7 @@ implementation
 
 uses OCP.Errado.CalculadoraDePreco, OCP.Certo.CalculadoraDePreco, OCP.Errado.MeioPagamento.Enum, OCP.Estado.Enum,
   OCP.Certo.ServicoDeFrete, OCP.Certo.TabelaPreco.Prazo, OCP.Certo.TabelaPreco.Vista, OCP.Errado.FormaGeometrica,
-  OCP.Certo.FormaGeometrica, OCP.Certo.Retangulo, OCP.Certo.Circulo;
+  OCP.Certo.FormaGeometrica.Intf, OCP.Certo.Retangulo, OCP.Certo.Circulo;
 
 {$R *.dfm}
 

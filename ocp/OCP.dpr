@@ -18,7 +18,7 @@ uses
   OCP.Errado.TabelaPrecoAPrazo in 'src\errado\calculadora\OCP.Errado.TabelaPrecoAPrazo.pas',
   OCP.Errado.TabelaPrecoAVista in 'src\errado\calculadora\OCP.Errado.TabelaPrecoAVista.pas',
   OCP.Errado.FormaGeometrica in 'src\errado\geometria\OCP.Errado.FormaGeometrica.pas',
-  OCP.Certo.FormaGeometrica in 'src\certo\geometria\OCP.Certo.FormaGeometrica.pas',
+  OCP.Certo.FormaGeometrica.Intf in 'src\certo\geometria\OCP.Certo.FormaGeometrica.Intf.pas',
   OCP.Certo.Retangulo in 'src\certo\geometria\OCP.Certo.Retangulo.pas',
   OCP.Certo.Circulo in 'src\certo\geometria\OCP.Certo.Circulo.pas';
 

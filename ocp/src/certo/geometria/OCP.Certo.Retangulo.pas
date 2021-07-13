@@ -2,7 +2,7 @@ unit OCP.Certo.Retangulo;
 
 interface
 
-uses OCP.Certo.FormaGeometrica;
+uses OCP.Certo.FormaGeometrica.Intf;
 
 type
   TRetangulo = class(TInterfacedObject, IFormaGeometrica)

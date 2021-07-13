@@ -117,7 +117,7 @@
         <DCCReference Include="src\errado\calculadora\OCP.Errado.TabelaPrecoAPrazo.pas"/>
         <DCCReference Include="src\errado\calculadora\OCP.Errado.TabelaPrecoAVista.pas"/>
         <DCCReference Include="src\errado\geometria\OCP.Errado.FormaGeometrica.pas"/>
-        <DCCReference Include="src\certo\geometria\OCP.Certo.FormaGeometrica.pas"/>
+        <DCCReference Include="src\certo\geometria\OCP.Certo.FormaGeometrica.Intf.pas"/>
         <DCCReference Include="src\certo\geometria\OCP.Certo.Retangulo.pas"/>
         <DCCReference Include="src\certo\geometria\OCP.Certo.Circulo.pas"/>
         <BuildConfiguration Include="Release">

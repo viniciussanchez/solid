@@ -1,4 +1,4 @@
-unit OCP.Certo.FormaGeometrica;
+unit OCP.Certo.FormaGeometrica.Intf;
 
 interface
 

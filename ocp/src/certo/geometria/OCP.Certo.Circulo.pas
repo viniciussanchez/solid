@@ -2,7 +2,7 @@ unit OCP.Certo.Circulo;
 
 interface
 
-uses OCP.Certo.FormaGeometrica;
+uses OCP.Certo.FormaGeometrica.Intf;
 
 type
   TCirculo = class(TInterfacedObject, IFormaGeometrica)
