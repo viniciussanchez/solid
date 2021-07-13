@@ -102,13 +102,20 @@
             <Form>FrmExemploISP</Form>
             <FormType>dfm</FormType>
         </DCCReference>
-        <DCCReference Include="src\errado\ISP.Errado.Ave.Intf.pas"/>
-        <DCCReference Include="src\errado\ISP.Errado.Ave.Tucano.pas"/>
-        <DCCReference Include="src\errado\ISP.Errado.Ave.Pinguin.pas"/>
-        <DCCReference Include="src\certo\ISP.Certo.Ave.Intf.pas"/>
-        <DCCReference Include="src\certo\ISP.Certo.Ave.Voadora.Intf.pas"/>
-        <DCCReference Include="src\certo\ISP.Certo.Ave.Tucano.pas"/>
-        <DCCReference Include="src\certo\ISP.Certo.Ave.Pinguin.pas"/>
+        <DCCReference Include="src\certo\ave\ISP.Certo.Ave.Intf.pas"/>
+        <DCCReference Include="src\certo\ave\ISP.Certo.Ave.Pinguin.pas"/>
+        <DCCReference Include="src\certo\ave\ISP.Certo.Ave.Tucano.pas"/>
+        <DCCReference Include="src\certo\ave\ISP.Certo.Ave.Voadora.Intf.pas"/>
+        <DCCReference Include="src\errado\ave\ISP.Errado.Ave.Intf.pas"/>
+        <DCCReference Include="src\errado\ave\ISP.Errado.Ave.Pinguin.pas"/>
+        <DCCReference Include="src\errado\ave\ISP.Errado.Ave.Tucano.pas"/>
+        <DCCReference Include="src\errado\telefone\ISP.Errado.Telefone.Intf.pas"/>
+        <DCCReference Include="src\errado\telefone\ISP.Errado.Telefone.Comum.pas"/>
+        <DCCReference Include="src\errado\telefone\ISP.Errado.Telefone.Celular.pas"/>
+        <DCCReference Include="src\certo\telefone\ISP.Certo.Telefone.Intf.pas"/>
+        <DCCReference Include="src\certo\telefone\ISP.Certo.Telefone.Celular.Intf.pas"/>
+        <DCCReference Include="src\certo\telefone\ISP.Certo.Telefone.Celular.pas"/>
+        <DCCReference Include="src\certo\telefone\ISP.Certo.Telefone.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
